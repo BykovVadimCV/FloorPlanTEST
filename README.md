@@ -83,8 +83,8 @@
 1. **Клонирование репозитория.**
 2. **Создание виртуального окружения.**
 3. **Установка зависимостей.**
-4. **Установка YOLOv9.**
-
+4. **Установка YOLOv9 в папку utils.**
+5. **Установка весов в папку weights по ссылке:** https://drive.google.com/drive/folders/13x8PY8TRBaeIcvUtRN_GdKWUwISqK44s?usp=drive_link
 
 
 
